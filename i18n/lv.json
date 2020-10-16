@@ -1,0 +1,42 @@
+{
+	"@metadata": {
+		"authors": [
+			"Papuass"
+		]
+	},
+	"loading": "Ielādē...",
+	"coming soon": "Drīzumā! :)",
+	"overview": "Pārskats",
+	"registration date": "Reģistrācijas datums",
+	"first edit": "Pirmais labojums",
+	"most recent edit": "Pēdējais labojums",
+	"uploads link": "Augšupielādētie faili",
+	"longest streak": "Garākais periods",
+	"edited in ns": "$1 {{PLURAL:$1|lapas|lapa|lapas}} labotas \"$2\" vārdtelpā",
+	"top edited in ns": "Populārākās $1 labotās {{PLURAL:$1|lapas|lapa|lapas}} \"$2\" vārdtelpā",
+	"executed in": "Izpildījās $1.",
+	"advanced": "Paplašināti",
+	"edit summary": "Labojuma kopsavilkums",
+	"edit summary desc": "Šajā cilnē atrodama dalībieka statistika par labojuma kopsavilkuma lauka izmantošanu.",
+	"edit summary percent": "Labojumi ar netukšu labojuma kopsavilkumu: $1",
+	"timeline": "Laika skala",
+	"rights": "Tiesības",
+	"no log entries": "Netika atrasts neviens žurnāla ieraksts.",
+	"tags": "Iezīmes",
+	"tags desc": "Šī tabula parāda labošanas iezīmes pēc izmantošanas reižu skaita. Katram labojumam var būt jebkāds skaits iezīmju.",
+	"files": "Augšupielādētie faili",
+	"code": "Kods",
+	"code desc": "Šajā cilnē tiek parādīta informācija par programmēšanas valodām, kurās dalībieks ir veicis ieguldījumu.",
+	"punchcard": "Perfokarte",
+	"nedits bold": "<strong>$1</strong> {{PLURAL:$1|labojumi|labojums|labojumi}}",
+	"map": "Karte",
+	"map desc": "Karte parāda atrašanās vietas, kas saistītas ar lapām dalībieka rediģētajās rakstu un failu vārdtelpās. Katra apļa laukums ir proporcionāls labojumu skaitam, ko dalībieks veicis attiecīgajā lapā.",
+	"bytes with nchanges": "$1 ar $2",
+	"no geodata": "Par labotajām lapām nav atrasta ģeogrāfiskās atrašanās vietas informācija.",
+	"votes": "Balsošana",
+	"votes-error": "Notika kļūda, pieprasot balsošanas datus.",
+	"voted for": "$1 — Balsoja par $2 ($3)",
+	"diff on project": "diff $1 projektā $2",
+	"did not vote": "Nebalsoja.",
+	"feedback": "atsauksmes"
+}
